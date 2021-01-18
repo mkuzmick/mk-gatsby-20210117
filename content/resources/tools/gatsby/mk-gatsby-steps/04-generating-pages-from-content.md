@@ -63,6 +63,7 @@ You can now perform your `allMdx` query again in your [http://localhost:8000/___
         }
     }
   ```
+  
 - then create pages for each node.
 - create an initial test layout in `src/templates/test-layout.js`
 
